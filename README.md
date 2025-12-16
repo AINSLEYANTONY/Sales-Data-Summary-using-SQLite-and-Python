@@ -1,5 +1,3 @@
-# ELEVATELABSTASK07
-
 # Sales Data Summary using SQLite and Python
 
 ## Objective
